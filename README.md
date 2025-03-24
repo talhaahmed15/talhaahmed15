@@ -11,10 +11,6 @@
 
 ###
 
-<img align="right" height="150" src="https://photos.google.com/share/AF1QipN7Xu6_bmIEAeGwbIV74pliWu09JTjPDLsAaj87dGMhskWALrig1YjnDvGemLhGkA/photo/AF1QipPOctVbQCfo0bRlWEe691cWmT1BOKHDROVyZaY?key=VHlzb3U3ZzFNZE9HVWQyRU5JVmFjcGlIMGFha3Bn"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
   <img width="12" />
@@ -40,6 +36,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
+
+###
+
+<img align="right" height="200" src="https://raw.githubusercontent.com/talhaahmed15/talhaahmed15/main/sherlock-profile%20image.png" />
 
 ###
 
